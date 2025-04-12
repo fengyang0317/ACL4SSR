@@ -27,3 +27,18 @@ PROCESS-NAME,Weiyun.exe
 PROCESS-NAME,baidunetdisk.exe
 # Xbox
 URL-REGEX,assets\d+\.xboxlive\.(com|cn)
+# My
+DOMAIN,conda.anaconda.org
+DOMAIN,developer.download.nvidia.com
+DOMAIN,dl.google.com
+DOMAIN,download.pytorch.org
+DOMAIN,files.pythonhosted.org
+DOMAIN,production.cloudflare.docker.com
+DOMAIN,registry.npmjs.org
+DOMAIN,repo.anaconda.com
+DOMAIN-SUFFIX,snapcraftcontent.com
+DOMAIN,transfer.xethub.hf.co
+DOMAIN,dl.flathub.org
+DOMAIN,pypi.nvidia.com
+DOMAIN,jpblobs.blob.core.windows.net
+DOMAIN-SUFFIX,aws.cdn.hf.co
