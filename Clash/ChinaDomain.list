@@ -622,7 +622,7 @@ DOMAIN-SUFFIX,nuomi.com
 DOMAIN-SUFFIX,onedns.net
 DOMAIN-SUFFIX,oneplus.com
 DOMAIN-SUFFIX,onlinedown.net
-DOMAIN-SUFFIX,oracle.com
+#DOMAIN-SUFFIX,oracle.com
 DOMAIN-SUFFIX,oschina.net
 DOMAIN-SUFFIX,ourdvs.com
 DOMAIN-SUFFIX,polyv.net
@@ -658,7 +658,7 @@ DOMAIN-SUFFIX,soufunimg.com
 DOMAIN-SUFFIX,sspai.com
 DOMAIN-SUFFIX,startssl.com
 DOMAIN-SUFFIX,suning.com
-DOMAIN-SUFFIX,synology.com
+#DOMAIN-SUFFIX,synology.com
 DOMAIN-SUFFIX,taihe.com
 DOMAIN-SUFFIX,th-sjy.com
 DOMAIN-SUFFIX,tianqi.com
